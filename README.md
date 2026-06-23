@@ -11,12 +11,15 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anurag-ds/dsa-solution/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anurag-ds/dsa-solution/tree/master/0018-4sum) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anurag-ds/dsa-solution/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anurag-ds/dsa-solution/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anurag-ds/dsa-solution/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anurag-ds/dsa-solution/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
