@@ -1,14 +1,20 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int target) {
-        int n = nums.size();
-       int low =0, high = n-1;
-       while(low<=high){
-        int mid = (low+high)/2;
-        if(nums[mid] == target) return mid;
-        else if(target>nums[mid]) low=mid+1;
-        else high = mid-1;
-       }
-       return -1; 
+    int binarysearch(vector<int>& a, int tar, int l, int h) {
+        if (l > h) return -1;
+
+        int mid = (l + h) / 2;
+
+        if (a[mid] == tar)
+            return mid;
+        else if (tar > a[mid])
+            return binarysearch(a, tar, mid + 1, h);
+        else
+            return binarysearch(a, tar, l, mid - 1);
+    }
+
+    int search(vector<int>& nums, int tar) {
+        int l = 0, h = nums.size() - 1;
+        return binarysearch(nums, tar, l, h);
     }
 };
