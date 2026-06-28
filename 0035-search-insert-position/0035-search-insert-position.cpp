@@ -20,6 +20,6 @@ public:
             }
         }
 
-        return pre;
+        return pre;  // we return mid also but not return array sorted oder that is why we return pre
     }
 };
