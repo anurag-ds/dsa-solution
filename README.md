@@ -13,6 +13,7 @@ Daily DSA Practise in C++
 | [0014-longest-common-prefix](https://github.com/anurag-ds/dsa-solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anurag-ds/dsa-solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anurag-ds/dsa-solution/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/anurag-ds/dsa-solution/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/anurag-ds/dsa-solution/tree/master/0152-maximum-product-subarray) |
@@ -23,6 +24,7 @@ Daily DSA Practise in C++
 | ------- |
 | [0015-3sum](https://github.com/anurag-ds/dsa-solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anurag-ds/dsa-solution/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/anurag-ds/dsa-solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
