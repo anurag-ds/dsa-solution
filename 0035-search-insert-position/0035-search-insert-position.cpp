@@ -2,24 +2,20 @@ class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
         int n = nums.size();
-        int pre = 0, suff = n - 1;
+        int low = 0, high = n - 1;
+        int ans = n;
 
-        if (target > nums[suff])
-            return n;
+        while (low <= high) {
+            int mid = (low + high) / 2;
 
-        while (pre <= suff) {
-            int mid = (pre + suff) / 2;
-
-            if (nums[mid] == target)
-                return mid;
-
-            if (target > nums[mid]) {
-                pre = mid + 1;
+            if (nums[mid] >= target) {
+                ans = mid;
+                high = mid - 1;
             } else {
-                suff = mid - 1;
+                low = mid + 1;
             }
         }
 
-        return pre;  // we return mid also but not return array sorted oder that is why we return pre
+        return ans;
     }
 };
