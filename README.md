@@ -28,6 +28,7 @@ Daily DSA Practise in C++
 | [0540-single-element-in-a-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anurag-ds/dsa-solution/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anurag-ds/dsa-solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2951-find-the-peaks](https://github.com/anurag-ds/dsa-solution/tree/master/2951-find-the-peaks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +90,8 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anurag-ds/dsa-solution/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/anurag-ds/dsa-solution/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
