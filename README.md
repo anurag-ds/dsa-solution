@@ -26,6 +26,7 @@ Daily DSA Practise in C++
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/anurag-ds/dsa-solution/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/anurag-ds/dsa-solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anurag-ds/dsa-solution/tree/master/0704-binary-search) |
@@ -60,6 +61,7 @@ Daily DSA Practise in C++
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/anurag-ds/dsa-solution/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/anurag-ds/dsa-solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anurag-ds/dsa-solution/tree/master/0704-binary-search) |
@@ -92,6 +94,7 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/anurag-ds/dsa-solution/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
 ## String
 |  |
 | ------- |
@@ -104,4 +107,12 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/anurag-ds/dsa-solution/tree/master/2951-find-the-peaks) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
