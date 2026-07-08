@@ -11,6 +11,7 @@ Daily DSA Practise in C++
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anurag-ds/dsa-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/anurag-ds/dsa-solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anurag-ds/dsa-solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anurag-ds/dsa-solution/tree/master/0018-4sum) |
@@ -54,6 +55,7 @@ Daily DSA Practise in C++
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anurag-ds/dsa-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anurag-ds/dsa-solution/tree/master/0035-search-insert-position) |
@@ -73,6 +75,7 @@ Daily DSA Practise in C++
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anurag-ds/dsa-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/anurag-ds/dsa-solution/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
