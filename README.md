@@ -131,4 +131,20 @@ Daily DSA Practise in C++
 | [0074-search-a-2d-matrix](https://github.com/anurag-ds/dsa-solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/anurag-ds/dsa-solution/tree/master/1901-find-a-peak-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
