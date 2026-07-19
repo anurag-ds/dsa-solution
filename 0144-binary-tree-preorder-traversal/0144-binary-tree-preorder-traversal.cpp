@@ -1,26 +1,31 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-struct Node {
-    int data;
-    TreeNode* left;
-    TreeNode* right;
-    Node(int val) : data(val), left(nullptr), right(nullptr) {}
-};
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
+ * };
+ */
 class Solution {
 public:
-    void preorder(TreeNode* root, vector<int>& arr) {
+    void helper(TreeNode* root, vector<int>& res) {
         if (root == nullptr) {
             return;
         }
-        arr.push_back(root->val);
-        preorder(root->left, arr);
-        preorder(root->right, arr);
+
+        res.push_back(root->val);
+        helper(root->left, res);
+        helper(root->right, res);
     }
+
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> arr;
-        preorder(root, arr);
-        return arr;
+        vector<int> res;
+        helper(root, res);
+        return res;
     }
 };
 
