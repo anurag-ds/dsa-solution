@@ -12,21 +12,23 @@
  */
 class Solution {
 public:
-    void helper(TreeNode* root, vector<int>& res) {
-        if (root == nullptr) {
+    vector<int> preorderTraversal(TreeNode* root) {
+        vector<int> res;
+
+        preorder(root, res);
+        return res;        
+    }
+
+private:
+    void preorder(TreeNode* node, std::vector<int>& res) {
+        if (node == nullptr) {
             return;
         }
 
-        res.push_back(root->val);
-        helper(root->left, res);
-        helper(root->right, res);
-    }
-
-    vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> res;
-        helper(root, res);
-        return res;
-    }
+        res.push_back(node->val);
+        preorder(node->left, res);
+        preorder(node->right, res);
+    }    
 };
 
 // Synced seamlessly with LeetHub Pro
