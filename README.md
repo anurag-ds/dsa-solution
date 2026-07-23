@@ -45,6 +45,7 @@ Daily DSA Practise in C++
 | ------- |
 | [0015-3sum](https://github.com/anurag-ds/dsa-solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anurag-ds/dsa-solution/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anurag-ds/dsa-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/anurag-ds/dsa-solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0088-merge-sorted-array) |
 ## Sorting
@@ -161,4 +162,8 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0102-binary-tree-level-order-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anurag-ds/dsa-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
