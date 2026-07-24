@@ -166,4 +166,8 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anurag-ds/dsa-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anurag-ds/dsa-solution/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
