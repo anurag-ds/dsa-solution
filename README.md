@@ -166,6 +166,7 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anurag-ds/dsa-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0237-delete-node-in-a-linked-list) |
 ## Database
 |  |
 | ------- |
