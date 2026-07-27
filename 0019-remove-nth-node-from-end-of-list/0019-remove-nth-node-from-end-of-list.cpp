@@ -10,7 +10,6 @@ public:
             temp = temp->next;
         }
 
-        // Delete first node
         if (cnt == n) {
             ListNode* del = head;
             head = head->next;
