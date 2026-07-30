@@ -49,6 +49,7 @@ Daily DSA Practise in C++
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anurag-ds/dsa-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/anurag-ds/dsa-solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Daily DSA Practise in C++
 | [0094-binary-tree-inorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Daily DSA Practise in C++
 | [0002-add-two-numbers](https://github.com/anurag-ds/dsa-solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anurag-ds/dsa-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0328-odd-even-linked-list) |
 ## Database
@@ -180,4 +183,5 @@ Daily DSA Practise in C++
 | ------- |
 | [0002-add-two-numbers](https://github.com/anurag-ds/dsa-solution/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
