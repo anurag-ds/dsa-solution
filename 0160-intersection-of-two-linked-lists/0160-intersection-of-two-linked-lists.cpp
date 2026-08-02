@@ -8,53 +8,20 @@
  */
 class Solution {
 public:
-    // Function to insert a node at the end
-    void insertNode(ListNode*& head, int val) {
-        ListNode* newNode = new ListNode(val);
-
-        if (head == NULL) {
-            head = newNode;
-            return;
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        if(headA == nullptr || headB == nullptr){
+            return nullptr;
         }
-
-        ListNode* temp = head;
-        while (temp->next != NULL) {
-            temp = temp->next;
+        ListNode*temp1 = headA;
+        ListNode*temp2 = headB;
+        while(temp1 != temp2){
+            temp1 =temp1->next;
+            temp2 = temp2->next;
+            if(temp1 == temp2) return temp1;
+            if(temp1 == nullptr) temp1 = headB;
+            if(temp2 == nullptr) temp2 = headA;
         }
-
-        temp->next = newNode;
-    }
-
-    // Function to find the intersection node
-    ListNode* getIntersectionNode(ListNode* headA, ListNode* headB) {
-        unordered_set<ListNode*> st;
-
-        // Store all nodes of first linked list
-        while (headA != NULL) {
-            st.insert(headA);
-            headA = headA->next;
-        }
-
-        // Traverse second linked list
-        while (headB != NULL) {
-            if (st.find(headB) != st.end()) {
-                return headB;
-            }
-            headB = headB->next;
-        }
-
-        return NULL;
-    }
-
-    // Function to print linked list
-    void printList(ListNode* head) {
-        while (head != NULL) {
-            cout << head->val;
-            if (head->next != NULL)
-                cout << " -> ";
-            head = head->next;
-        }
-        cout << endl;
+        return temp1;
     }
 };
 
