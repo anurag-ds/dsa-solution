@@ -15,7 +15,6 @@ public:
 
         while (temp != NULL) {
             ListNode* nextNode = temp->next;
-
             if (nextNode != NULL && temp->val == nextNode->val) {
                 temp->next = nextNode->next;
                 delete nextNode;
@@ -23,7 +22,6 @@ public:
                 temp = temp->next;
             }
         }
-
         return head;
     }
 };
