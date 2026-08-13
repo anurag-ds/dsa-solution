@@ -177,6 +177,7 @@ Daily DSA Practise in C++
 | [0002-add-two-numbers](https://github.com/anurag-ds/dsa-solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anurag-ds/dsa-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/anurag-ds/dsa-solution/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/anurag-ds/dsa-solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anurag-ds/dsa-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/anurag-ds/dsa-solution/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anurag-ds/dsa-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -199,6 +200,7 @@ Daily DSA Practise in C++
 | ------- |
 | [0002-add-two-numbers](https://github.com/anurag-ds/dsa-solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/anurag-ds/dsa-solution/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/anurag-ds/dsa-solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anurag-ds/dsa-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/anurag-ds/dsa-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0206-reverse-linked-list) |
