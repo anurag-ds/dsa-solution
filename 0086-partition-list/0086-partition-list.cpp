@@ -11,35 +11,26 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-
         ListNode smallDummy(0);
-        ListNode largeDummy(0);
+        ListNode LargeDummy(0);
 
-        ListNode* small = &smallDummy;
-        ListNode* large = &largeDummy;
+        ListNode*small = &smallDummy;
+        ListNode*large = &LargeDummy;
 
-        ListNode* curr = head;
-
-        while (curr != NULL) {
-
-            if (curr->val < x) {
-                small->next = curr;
+        ListNode*temp = head;
+        while(temp != NULL){
+            if(temp->val < x){
+                small->next = temp;
                 small = small->next;
             }
-            else {
-                large->next = curr;
+            else{
+                large->next = temp;
                 large = large->next;
             }
-
-            curr = curr->next;
+            temp = temp->next;
         }
-
-        // End the large list
         large->next = NULL;
-
-        // Connect small list with large list
-        small->next = largeDummy.next;
-
+        small->next = LargeDummy.next;
         return smallDummy.next;
     }
 };
