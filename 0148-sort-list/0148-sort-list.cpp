@@ -34,13 +34,11 @@ public:
         // Sort both halves
         ListNode* left = sortList(head);
         ListNode* right = sortList(secondHalf);
-
         // Merge sorted halves
         return merge(left, right);
     }
 
 private:
-
     ListNode* merge(ListNode* left, ListNode* right) {
 
         ListNode dummy(0);
