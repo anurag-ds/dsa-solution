@@ -45,7 +45,6 @@ private:
         ListNode* curr = &dummy;
 
         while (left != nullptr && right != nullptr) {
-
             if (left->val <= right->val) {
                 curr->next = left;
                 left = left->next;
@@ -54,10 +53,8 @@ private:
                 curr->next = right;
                 right = right->next;
             }
-
             curr = curr->next;
         }
-
         // Attach remaining nodes
         if (left != nullptr) {
             curr->next = left;
@@ -65,7 +62,6 @@ private:
         else {
             curr->next = right;
         }
-
         return dummy.next;
     }
 };
