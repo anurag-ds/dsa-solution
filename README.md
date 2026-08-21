@@ -54,6 +54,7 @@ Daily DSA Practise in C++
 | [0088-merge-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anurag-ds/dsa-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/anurag-ds/dsa-solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anurag-ds/dsa-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0876-middle-of-the-linked-list) |
@@ -65,6 +66,7 @@ Daily DSA Practise in C++
 | [0018-4sum](https://github.com/anurag-ds/dsa-solution/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/anurag-ds/dsa-solution/tree/master/0148-sort-list) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anurag-ds/dsa-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -93,6 +95,7 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anurag-ds/dsa-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/anurag-ds/dsa-solution/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/anurag-ds/dsa-solution/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -106,6 +109,7 @@ Daily DSA Practise in C++
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anurag-ds/dsa-solution/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/anurag-ds/dsa-solution/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -188,6 +192,7 @@ Daily DSA Practise in C++
 | [0092-reverse-linked-list-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/anurag-ds/dsa-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/anurag-ds/dsa-solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anurag-ds/dsa-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/anurag-ds/dsa-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0206-reverse-linked-list) |
