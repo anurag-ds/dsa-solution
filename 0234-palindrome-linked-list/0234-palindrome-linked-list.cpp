@@ -45,9 +45,7 @@ public:
             first = first->next;
             second = second->next;
         }
-
-        slow->next = reverseLinkedList(newHead); 
-
+        slow->next = reverseLinkedList(newHead);  // for restoring linkedlist in original place
         return true;
     }
 };
