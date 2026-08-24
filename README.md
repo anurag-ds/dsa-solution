@@ -9,6 +9,7 @@ Daily DSA Practise in C++
 | [0002-add-two-numbers](https://github.com/anurag-ds/dsa-solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anurag-ds/dsa-solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/anurag-ds/dsa-solution/tree/master/0066-plus-one) |
+| [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anurag-ds/dsa-solution/tree/master/0014-longest-common-prefix) |
+| [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
