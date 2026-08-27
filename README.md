@@ -125,6 +125,7 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anurag-ds/dsa-solution/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/anurag-ds/dsa-solution/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -224,6 +225,7 @@ Daily DSA Practise in C++
 | [0141-linked-list-cycle](https://github.com/anurag-ds/dsa-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anurag-ds/dsa-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/anurag-ds/dsa-solution/tree/master/0205-isomorphic-strings) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
