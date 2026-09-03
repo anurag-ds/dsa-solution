@@ -54,6 +54,7 @@ Daily DSA Practise in C++
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/anurag-ds/dsa-solution/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/anurag-ds/dsa-solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anurag-ds/dsa-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/anurag-ds/dsa-solution/tree/master/0148-sort-list) |
@@ -127,6 +128,7 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anurag-ds/dsa-solution/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/anurag-ds/dsa-solution/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/anurag-ds/dsa-solution/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
