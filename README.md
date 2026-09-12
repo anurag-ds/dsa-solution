@@ -33,6 +33,7 @@ Daily DSA Practise in C++
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/anurag-ds/dsa-solution/tree/master/0162-find-peak-element) |
+| [0216-combination-sum-iii](https://github.com/anurag-ds/dsa-solution/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/anurag-ds/dsa-solution/tree/master/0493-reverse-pairs) |
@@ -249,4 +250,5 @@ Daily DSA Practise in C++
 | ------- |
 | [0039-combination-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/anurag-ds/dsa-solution/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
