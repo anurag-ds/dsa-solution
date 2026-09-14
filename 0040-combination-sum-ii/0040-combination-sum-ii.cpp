@@ -7,7 +7,7 @@ public:
             return;
         }
         for(int i =ind; i<arr.size(); i++){
-            if(i>ind && arr[i] == arr[i-1]) continue;
+            if(i>ind && arr[i] == arr[i-1]) continue; 
             if(arr[i]>target) break;
             ds.push_back(arr[i]);
             findcombinationSum(i+1,target-arr[i],arr,ans,ds);
