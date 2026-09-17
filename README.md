@@ -76,6 +76,7 @@ Daily DSA Practise in C++
 | [0056-merge-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/anurag-ds/dsa-solution/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/anurag-ds/dsa-solution/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anurag-ds/dsa-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -137,6 +138,7 @@ Daily DSA Practise in C++
 | [0014-longest-common-prefix](https://github.com/anurag-ds/dsa-solution/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/anurag-ds/dsa-solution/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/anurag-ds/dsa-solution/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/anurag-ds/dsa-solution/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0940-distinct-subsequences-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -242,6 +244,7 @@ Daily DSA Practise in C++
 | [0142-linked-list-cycle-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anurag-ds/dsa-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/anurag-ds/dsa-solution/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/anurag-ds/dsa-solution/tree/master/0242-valid-anagram) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
