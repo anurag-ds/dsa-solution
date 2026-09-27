@@ -21,25 +21,19 @@ public:
         for (int i = index; i < s.size(); i++) {
 
             if (isPalindrome(s, index, i)) {
-
                 path.push_back(s.substr(index, i - index + 1));
-
                 func(i + 1, s, res, path);
-
                 path.pop_back();
             }
         }
     }
 
     bool isPalindrome(string s, int start, int end) {
-
         while (start <= end) {
-
             if (s[start++] != s[end--]) {
                 return false;
             }
         }
-
         return true;
     }
 };
