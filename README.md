@@ -134,6 +134,7 @@ Daily DSA Practise in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/anurag-ds/dsa-solution/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/anurag-ds/dsa-solution/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/anurag-ds/dsa-solution/tree/master/0509-fibonacci-number) |
@@ -144,6 +145,7 @@ Daily DSA Practise in C++
 | [0012-integer-to-roman](https://github.com/anurag-ds/dsa-solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/anurag-ds/dsa-solution/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/anurag-ds/dsa-solution/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/anurag-ds/dsa-solution/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/anurag-ds/dsa-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/anurag-ds/dsa-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anurag-ds/dsa-solution/tree/master/0242-valid-anagram) |
@@ -278,6 +280,7 @@ Daily DSA Practise in C++
 | [0051-n-queens](https://github.com/anurag-ds/dsa-solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/anurag-ds/dsa-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/anurag-ds/dsa-solution/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/anurag-ds/dsa-solution/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
