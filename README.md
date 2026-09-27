@@ -32,6 +32,7 @@ Daily DSA Practise in C++
 | [0066-plus-one](https://github.com/anurag-ds/dsa-solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anurag-ds/dsa-solution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/anurag-ds/dsa-solution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anurag-ds/dsa-solution/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0090-subsets-ii) |
@@ -144,6 +145,7 @@ Daily DSA Practise in C++
 | ------- |
 | [0012-integer-to-roman](https://github.com/anurag-ds/dsa-solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/anurag-ds/dsa-solution/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/anurag-ds/dsa-solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/anurag-ds/dsa-solution/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anurag-ds/dsa-solution/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/anurag-ds/dsa-solution/tree/master/0151-reverse-words-in-a-string) |
@@ -174,6 +176,7 @@ Daily DSA Practise in C++
 | [0036-valid-sudoku](https://github.com/anurag-ds/dsa-solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anurag-ds/dsa-solution/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/anurag-ds/dsa-solution/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/anurag-ds/dsa-solution/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/anurag-ds/dsa-solution/tree/master/1901-find-a-peak-element-ii) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anurag-ds/dsa-solution/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -195,6 +198,7 @@ Daily DSA Practise in C++
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anurag-ds/dsa-solution/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -279,6 +283,7 @@ Daily DSA Practise in C++
 | [0040-combination-sum-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/anurag-ds/dsa-solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/anurag-ds/dsa-solution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anurag-ds/dsa-solution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/anurag-ds/dsa-solution/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/anurag-ds/dsa-solution/tree/master/0216-combination-sum-iii) |
