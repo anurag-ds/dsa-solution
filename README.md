@@ -9,6 +9,7 @@ Daily DSA Practise in C++
 | [0002-add-two-numbers](https://github.com/anurag-ds/dsa-solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anurag-ds/dsa-solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/anurag-ds/dsa-solution/tree/master/0012-integer-to-roman) |
+| [0060-permutation-sequence](https://github.com/anurag-ds/dsa-solution/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/anurag-ds/dsa-solution/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/anurag-ds/dsa-solution/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
@@ -249,6 +250,7 @@ Daily DSA Practise in C++
 | [0021-merge-two-sorted-lists](https://github.com/anurag-ds/dsa-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/anurag-ds/dsa-solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anurag-ds/dsa-solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/anurag-ds/dsa-solution/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/anurag-ds/dsa-solution/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/anurag-ds/dsa-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0206-reverse-linked-list) |
