@@ -148,6 +148,7 @@ Daily DSA Practise in C++
 | [0012-integer-to-roman](https://github.com/anurag-ds/dsa-solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/anurag-ds/dsa-solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anurag-ds/dsa-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/anurag-ds/dsa-solution/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/anurag-ds/dsa-solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/anurag-ds/dsa-solution/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anurag-ds/dsa-solution/tree/master/0131-palindrome-partitioning) |
@@ -186,6 +187,7 @@ Daily DSA Practise in C++
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anurag-ds/dsa-solution/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/anurag-ds/dsa-solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0144-binary-tree-preorder-traversal) |
@@ -308,4 +310,8 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anurag-ds/dsa-solution/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anurag-ds/dsa-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
