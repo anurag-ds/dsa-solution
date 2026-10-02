@@ -115,6 +115,7 @@ Daily DSA Practise in C++
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anurag-ds/dsa-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/anurag-ds/dsa-solution/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/anurag-ds/dsa-solution/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/anurag-ds/dsa-solution/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -301,6 +302,7 @@ Daily DSA Practise in C++
 | ------- |
 | [0078-subsets](https://github.com/anurag-ds/dsa-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/anurag-ds/dsa-solution/tree/master/0191-number-of-1-bits) |
 ## Algorithm X
 |  |
 | ------- |
