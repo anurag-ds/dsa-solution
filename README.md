@@ -58,6 +58,7 @@ Daily DSA Practise in C++
 | [2089-find-target-indices-after-sorting-array](https://github.com/anurag-ds/dsa-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anurag-ds/dsa-solution/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2951-find-the-peaks](https://github.com/anurag-ds/dsa-solution/tree/master/2951-find-the-peaks) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anurag-ds/dsa-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -277,6 +278,7 @@ Daily DSA Practise in C++
 | [0205-isomorphic-strings](https://github.com/anurag-ds/dsa-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anurag-ds/dsa-solution/tree/master/0242-valid-anagram) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anurag-ds/dsa-solution/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anurag-ds/dsa-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -309,6 +311,7 @@ Daily DSA Practise in C++
 | [0191-number-of-1-bits](https://github.com/anurag-ds/dsa-solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/anurag-ds/dsa-solution/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anurag-ds/dsa-solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anurag-ds/dsa-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Algorithm X
 |  |
 | ------- |
