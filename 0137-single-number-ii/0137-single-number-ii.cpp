@@ -1,19 +1,13 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int ans = 0;
-        for (int idx = 0; idx < 32; idx++) {
-            int cnt = 0;
-            for (int i = 0; i < nums.size(); i++) {
-                if (nums[i] & (1 << idx)) {
-                    cnt++;
-                }
-            }
-            if (cnt % 3 == 1) {
-                ans = ans | (1 << idx);
+        sort(nums.begin(), nums.end());
+        for (int i = 1; i < nums.size(); i = i + 3) {
+            if (nums[i] != nums[i - 1]) {
+                return nums[i - 1];
             }
         }
-        return ans;
+        return nums[nums.size() - 1];
     }
 };
 
