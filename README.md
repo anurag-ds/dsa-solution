@@ -9,6 +9,7 @@ Daily DSA Practise in C++
 | [0002-add-two-numbers](https://github.com/anurag-ds/dsa-solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anurag-ds/dsa-solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/anurag-ds/dsa-solution/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/anurag-ds/dsa-solution/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/anurag-ds/dsa-solution/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/anurag-ds/dsa-solution/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/anurag-ds/dsa-solution/tree/master/0231-power-of-two) |
@@ -306,6 +307,7 @@ Daily DSA Practise in C++
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/anurag-ds/dsa-solution/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/anurag-ds/dsa-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anurag-ds/dsa-solution/tree/master/0136-single-number) |
