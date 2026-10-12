@@ -30,6 +30,7 @@ Daily DSA Practise in C++
 | [0037-sudoku-solver](https://github.com/anurag-ds/dsa-solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anurag-ds/dsa-solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anurag-ds/dsa-solution/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0056-merge-intervals) |
@@ -147,6 +148,7 @@ Daily DSA Practise in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0045-jump-game-ii) |
 | [0131-palindrome-partitioning](https://github.com/anurag-ds/dsa-solution/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/anurag-ds/dsa-solution/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
@@ -178,6 +180,7 @@ Daily DSA Practise in C++
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anurag-ds/dsa-solution/tree/master/0860-lemonade-change) |
