@@ -50,6 +50,7 @@ Daily DSA Practise in C++
 | [0216-combination-sum-iii](https://github.com/anurag-ds/dsa-solution/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/anurag-ds/dsa-solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -95,6 +96,7 @@ Daily DSA Practise in C++
 | [0088-merge-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/anurag-ds/dsa-solution/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/anurag-ds/dsa-solution/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anurag-ds/dsa-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
@@ -152,6 +154,7 @@ Daily DSA Practise in C++
 | [0131-palindrome-partitioning](https://github.com/anurag-ds/dsa-solution/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/anurag-ds/dsa-solution/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/anurag-ds/dsa-solution/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0940-distinct-subsequences-ii) |
 ## String
@@ -182,6 +185,7 @@ Daily DSA Practise in C++
 | ------- |
 | [0045-jump-game-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anurag-ds/dsa-solution/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
