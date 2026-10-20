@@ -34,6 +34,7 @@ Daily DSA Practise in C++
 | [0046-permutations](https://github.com/anurag-ds/dsa-solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anurag-ds/dsa-solution/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/anurag-ds/dsa-solution/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/anurag-ds/dsa-solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anurag-ds/dsa-solution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/anurag-ds/dsa-solution/tree/master/0078-subsets) |
