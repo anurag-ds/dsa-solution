@@ -64,6 +64,7 @@ Daily DSA Practise in C++
 | [1901-find-a-peak-element-ii](https://github.com/anurag-ds/dsa-solution/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anurag-ds/dsa-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anurag-ds/dsa-solution/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-ds/dsa-solution/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2951-find-the-peaks](https://github.com/anurag-ds/dsa-solution/tree/master/2951-find-the-peaks) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anurag-ds/dsa-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
@@ -88,6 +89,7 @@ Daily DSA Practise in C++
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-ds/dsa-solution/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +102,7 @@ Daily DSA Practise in C++
 | [0435-non-overlapping-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anurag-ds/dsa-solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-ds/dsa-solution/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,10 +193,12 @@ Daily DSA Practise in C++
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anurag-ds/dsa-solution/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-ds/dsa-solution/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-ds/dsa-solution/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
 |  |
 | ------- |
@@ -347,4 +352,8 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-ds/dsa-solution/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
