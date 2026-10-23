@@ -356,6 +356,7 @@ Daily DSA Practise in C++
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
