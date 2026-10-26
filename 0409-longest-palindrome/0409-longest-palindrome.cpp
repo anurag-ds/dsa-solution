@@ -1,19 +1,17 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        unordered_map<char,int>freq;
+        int freq[128] = {0};
         for(char c : s) freq[c]++;
 
         int result =0;
         bool hasOdd = false;
 
-        for(auto & p :freq){
-            int count = p.second;
-            result += (count/2)*2;
-            if(count %2 == 1) hasOdd = true;
+        for(int i =0; i<128; i++){
+            result += (freq[i]/2)*2;
+            if(freq[i]%2 == 1) hasOdd = true;
         }
-        if(hasOdd) result +=1;
-        return result;
+        return hasOdd ? result +1:result;
 
     }
 };
