@@ -56,6 +56,7 @@ Daily DSA Practise in C++
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/anurag-ds/dsa-solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/anurag-ds/dsa-solution/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/anurag-ds/dsa-solution/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/anurag-ds/dsa-solution/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/anurag-ds/dsa-solution/tree/master/0875-koko-eating-bananas) |
@@ -102,6 +103,7 @@ Daily DSA Practise in C++
 | [0242-valid-anagram](https://github.com/anurag-ds/dsa-solution/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/anurag-ds/dsa-solution/tree/master/0561-array-partition) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anurag-ds/dsa-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-ds/dsa-solution/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
@@ -197,6 +199,7 @@ Daily DSA Practise in C++
 | [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/anurag-ds/dsa-solution/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/anurag-ds/dsa-solution/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/anurag-ds/dsa-solution/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
@@ -367,4 +370,8 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-ds/dsa-solution/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/anurag-ds/dsa-solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
