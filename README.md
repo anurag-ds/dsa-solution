@@ -57,6 +57,7 @@ Daily DSA Practise in C++
 | [0493-reverse-pairs](https://github.com/anurag-ds/dsa-solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/anurag-ds/dsa-solution/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/anurag-ds/dsa-solution/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/anurag-ds/dsa-solution/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/anurag-ds/dsa-solution/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/anurag-ds/dsa-solution/tree/master/0875-koko-eating-bananas) |
@@ -200,6 +201,7 @@ Daily DSA Practise in C++
 | [0435-non-overlapping-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/anurag-ds/dsa-solution/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/anurag-ds/dsa-solution/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/anurag-ds/dsa-solution/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/anurag-ds/dsa-solution/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
