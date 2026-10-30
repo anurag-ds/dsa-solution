@@ -61,6 +61,7 @@ Daily DSA Practise in C++
 | [0704-binary-search](https://github.com/anurag-ds/dsa-solution/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/anurag-ds/dsa-solution/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/anurag-ds/dsa-solution/tree/master/0875-koko-eating-bananas) |
+| [0942-di-string-match](https://github.com/anurag-ds/dsa-solution/tree/master/0942-di-string-match) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anurag-ds/dsa-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anurag-ds/dsa-solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/anurag-ds/dsa-solution/tree/master/1539-kth-missing-positive-number) |
@@ -92,6 +93,7 @@ Daily DSA Practise in C++
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0876-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/anurag-ds/dsa-solution/tree/master/0942-di-string-match) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-ds/dsa-solution/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
@@ -184,6 +186,7 @@ Daily DSA Practise in C++
 | [0678-valid-parenthesis-string](https://github.com/anurag-ds/dsa-solution/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0680-valid-palindrome-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0940-distinct-subsequences-ii) |
+| [0942-di-string-match](https://github.com/anurag-ds/dsa-solution/tree/master/0942-di-string-match) |
 | [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -207,6 +210,7 @@ Daily DSA Practise in C++
 | [0678-valid-parenthesis-string](https://github.com/anurag-ds/dsa-solution/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/anurag-ds/dsa-solution/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/anurag-ds/dsa-solution/tree/master/0942-di-string-match) |
 | [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-ds/dsa-solution/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
