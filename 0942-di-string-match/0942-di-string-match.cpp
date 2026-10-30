@@ -1,21 +1,18 @@
 class Solution {
 public:
     vector<int> diStringMatch(string s) {
-        vector<int>prem;
-        int low = 0;
-        int high = s.size();
-        for(int i =0; i<s.size(); i++){
-            if(s[i] == 'I'){
-                prem.push_back(low++);
-            }
-            else{
-                prem.push_back(high--);
-            }
-            if(low == high){
-                prem.push_back(low);
-            }
+        int n = s.size();
+        vector<int> perm;
+        perm.reserve(n + 1); 
+
+        int low = 0, high = n;
+
+        for (char c : s) {
+            if (c == 'I') perm.push_back(low++);
+            else          perm.push_back(high--);
         }
-        return prem;
+        perm.push_back(low); 
+        return perm;
     }
 };
 
