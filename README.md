@@ -9,6 +9,7 @@ Daily DSA Practise in C++
 | [0002-add-two-numbers](https://github.com/anurag-ds/dsa-solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anurag-ds/dsa-solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/anurag-ds/dsa-solution/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/anurag-ds/dsa-solution/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anurag-ds/dsa-solution/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/anurag-ds/dsa-solution/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/anurag-ds/dsa-solution/tree/master/0066-plus-one) |
@@ -173,6 +174,7 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/anurag-ds/dsa-solution/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/anurag-ds/dsa-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anurag-ds/dsa-solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anurag-ds/dsa-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anurag-ds/dsa-solution/tree/master/0020-valid-parentheses) |
@@ -310,6 +312,7 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/anurag-ds/dsa-solution/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/anurag-ds/dsa-solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anurag-ds/dsa-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/anurag-ds/dsa-solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anurag-ds/dsa-solution/tree/master/0037-sudoku-solver) |
