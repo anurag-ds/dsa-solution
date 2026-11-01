@@ -13,6 +13,7 @@ Daily DSA Practise in C++
 | [0029-divide-two-integers](https://github.com/anurag-ds/dsa-solution/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/anurag-ds/dsa-solution/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/anurag-ds/dsa-solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/anurag-ds/dsa-solution/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anurag-ds/dsa-solution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/anurag-ds/dsa-solution/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
@@ -181,6 +182,7 @@ Daily DSA Practise in C++
 | [0020-valid-parentheses](https://github.com/anurag-ds/dsa-solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-ds/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/anurag-ds/dsa-solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/anurag-ds/dsa-solution/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/anurag-ds/dsa-solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/anurag-ds/dsa-solution/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anurag-ds/dsa-solution/tree/master/0131-palindrome-partitioning) |
@@ -354,6 +356,7 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anurag-ds/dsa-solution/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/anurag-ds/dsa-solution/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/anurag-ds/dsa-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anurag-ds/dsa-solution/tree/master/0136-single-number) |
@@ -405,4 +408,8 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-ds/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anurag-ds/dsa-solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
