@@ -79,6 +79,7 @@ Daily DSA Practise in C++
 | [0018-4sum](https://github.com/anurag-ds/dsa-solution/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anurag-ds/dsa-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/anurag-ds/dsa-solution/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-ds/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/anurag-ds/dsa-solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/anurag-ds/dsa-solution/tree/master/0086-partition-list) |
@@ -178,6 +179,7 @@ Daily DSA Practise in C++
 | [0014-longest-common-prefix](https://github.com/anurag-ds/dsa-solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anurag-ds/dsa-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anurag-ds/dsa-solution/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-ds/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/anurag-ds/dsa-solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/anurag-ds/dsa-solution/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anurag-ds/dsa-solution/tree/master/0131-palindrome-partitioning) |
@@ -386,4 +388,20 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/anurag-ds/dsa-solution/tree/master/0561-array-partition) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-ds/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-ds/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-ds/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-ds/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
