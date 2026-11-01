@@ -180,6 +180,7 @@ Daily DSA Practise in C++
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anurag-ds/dsa-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anurag-ds/dsa-solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-ds/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/anurag-ds/dsa-solution/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/anurag-ds/dsa-solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/anurag-ds/dsa-solution/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anurag-ds/dsa-solution/tree/master/0131-palindrome-partitioning) |
