@@ -243,6 +243,7 @@ Daily DSA Practise in C++
 | [0143-reorder-list](https://github.com/anurag-ds/dsa-solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/anurag-ds/dsa-solution/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/anurag-ds/dsa-solution/tree/master/0678-valid-parenthesis-string) |
 ## Tree
@@ -412,4 +413,12 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anurag-ds/dsa-solution/tree/master/0067-add-binary) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/anurag-ds/dsa-solution/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/anurag-ds/dsa-solution/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
