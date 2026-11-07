@@ -15,6 +15,7 @@ Daily DSA Practise in C++
 | [0066-plus-one](https://github.com/anurag-ds/dsa-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anurag-ds/dsa-solution/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/anurag-ds/dsa-solution/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/anurag-ds/dsa-solution/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/anurag-ds/dsa-solution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/anurag-ds/dsa-solution/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
@@ -189,6 +190,7 @@ Daily DSA Practise in C++
 | [0131-palindrome-partitioning](https://github.com/anurag-ds/dsa-solution/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/anurag-ds/dsa-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/anurag-ds/dsa-solution/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/anurag-ds/dsa-solution/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/anurag-ds/dsa-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anurag-ds/dsa-solution/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/anurag-ds/dsa-solution/tree/master/0409-longest-palindrome) |
