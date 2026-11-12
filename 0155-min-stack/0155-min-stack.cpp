@@ -1,38 +1,61 @@
-#include<iostream>
-#import<stack>
+
+#include <iostream>
+#include <stack>
+using namespace std;
+
 class MinStack {
-    stack<pair<int,int>>st;  
+    stack<long long> st;
+    long long mini;
+
 public:
     MinStack() {
+        mini = LLONG_MAX;
     }
-    
+
     void push(int value) {
-        if(st.empty()){
-            st.push({value,value});
+        if (st.empty()) {
+            mini = value;
+            st.push(value);
         }
-        else{
-            st.push({value,min(value,st.top().second)});
-        }   
+        else if (value > mini) {
+            st.push(value);
+        }
+        else {
+            st.push(2LL * value - mini);
+            mini = value;
+        }
     }
-    
+
     void pop() {
-        if(st.empty()){
+        if (st.empty()) {
             return;
         }
-        return st.pop();
+
+        long long n = st.top();
+        st.pop();
+
+        if (n < mini) {
+            mini = 2 * mini - n;
+        }
     }
-    
+
     int top() {
-        if(st.empty()){
+        if (st.empty()) {
             return -1;
         }
-        return st.top().first;  
+
+        long long n = st.top();
+
+        if (n < mini) {
+            return mini;
+        }
+        return n;
     }
-    
     int getMin() {
-        return st.top().second;
+        return mini;
     }
 };
+
 
 /**
  * Your MinStack object will be instantiated and called as such:
