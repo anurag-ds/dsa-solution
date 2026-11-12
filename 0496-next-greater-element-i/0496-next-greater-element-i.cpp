@@ -1,33 +1,25 @@
-#include <iostream>
-#include <vector>
-using namespace std;
-
+#include<iostream>
+#include<stack>
+#include<vector>
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> ans;
-
-        for (int i = 0; i < nums1.size(); i++) {
-
-            int j = 0;
-
-            while (j < nums2.size() && nums2[j] != nums1[i]) {
-                j++;
+        unordered_map<int,int>umap;
+        stack<int>st;
+        int n = nums2.size();
+        for(int i =n-1; i>=0; i--){
+            int ele = nums2[i];
+            while(!st.empty() && st.top() <= ele){
+                st.pop();
             }
-
-            int nextGreater = -1;
-
-            for (int k = j + 1; k < nums2.size(); k++) {
-
-                if (nums2[k] > nums1[i]) {
-                    nextGreater = nums2[k];
-                    break;
-                }
-            }
-
-            ans.push_back(nextGreater);
+            int res = (st.empty()) ? -1: st.top();
+            umap.insert({ele,res});
+            st.push(ele);
         }
-
+        vector<int>ans;
+        for(auto x :nums1){
+            ans.push_back(umap[x]);
+        }
         return ans;
     }
 };
