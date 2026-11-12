@@ -59,6 +59,7 @@ Daily DSA Practise in C++
 | [0435-non-overlapping-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/anurag-ds/dsa-solution/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/anurag-ds/dsa-solution/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/anurag-ds/dsa-solution/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anurag-ds/dsa-solution/tree/master/0605-can-place-flowers) |
@@ -251,6 +252,7 @@ Daily DSA Practise in C++
 | [0225-implement-stack-using-queues](https://github.com/anurag-ds/dsa-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anurag-ds/dsa-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/anurag-ds/dsa-solution/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/anurag-ds/dsa-solution/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
@@ -334,6 +336,7 @@ Daily DSA Practise in C++
 | [0205-isomorphic-strings](https://github.com/anurag-ds/dsa-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anurag-ds/dsa-solution/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/anurag-ds/dsa-solution/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/anurag-ds/dsa-solution/tree/master/0496-next-greater-element-i) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anurag-ds/dsa-solution/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anurag-ds/dsa-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Floyd's Cycle Finding Algorithm
@@ -430,4 +433,8 @@ Daily DSA Practise in C++
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anurag-ds/dsa-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anurag-ds/dsa-solution/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anurag-ds/dsa-solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
