@@ -15,6 +15,7 @@ Daily DSA Practise in C++
 | [0066-plus-one](https://github.com/anurag-ds/dsa-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anurag-ds/dsa-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anurag-ds/dsa-solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/anurag-ds/dsa-solution/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/anurag-ds/dsa-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/anurag-ds/dsa-solution/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/anurag-ds/dsa-solution/tree/master/0231-power-of-two) |
@@ -171,6 +172,7 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/anurag-ds/dsa-solution/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/anurag-ds/dsa-solution/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/anurag-ds/dsa-solution/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
@@ -351,6 +353,7 @@ Daily DSA Practise in C++
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anurag-ds/dsa-solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/anurag-ds/dsa-solution/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
