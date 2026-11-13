@@ -60,6 +60,7 @@ Daily DSA Practise in C++
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/anurag-ds/dsa-solution/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/anurag-ds/dsa-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/anurag-ds/dsa-solution/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anurag-ds/dsa-solution/tree/master/0605-can-place-flowers) |
@@ -253,6 +254,7 @@ Daily DSA Practise in C++
 | [0232-implement-queue-using-stacks](https://github.com/anurag-ds/dsa-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anurag-ds/dsa-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/anurag-ds/dsa-solution/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
@@ -437,4 +439,5 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anurag-ds/dsa-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
