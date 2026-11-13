@@ -14,6 +14,7 @@ Daily DSA Practise in C++
 | [0060-permutation-sequence](https://github.com/anurag-ds/dsa-solution/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/anurag-ds/dsa-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anurag-ds/dsa-solution/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/anurag-ds/dsa-solution/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/anurag-ds/dsa-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/anurag-ds/dsa-solution/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/anurag-ds/dsa-solution/tree/master/0231-power-of-two) |
@@ -124,6 +125,7 @@ Daily DSA Practise in C++
 | [0033-search-in-rotated-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anurag-ds/dsa-solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/anurag-ds/dsa-solution/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/anurag-ds/dsa-solution/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -440,4 +442,8 @@ Daily DSA Practise in C++
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anurag-ds/dsa-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0503-next-greater-element-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anurag-ds/dsa-solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
