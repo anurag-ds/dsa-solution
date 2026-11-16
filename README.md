@@ -36,6 +36,7 @@ Daily DSA Practise in C++
 | [0037-sudoku-solver](https://github.com/anurag-ds/dsa-solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/anurag-ds/dsa-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anurag-ds/dsa-solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anurag-ds/dsa-solution/tree/master/0051-n-queens) |
@@ -87,6 +88,7 @@ Daily DSA Practise in C++
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anurag-ds/dsa-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/anurag-ds/dsa-solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-ds/dsa-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/anurag-ds/dsa-solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/anurag-ds/dsa-solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/anurag-ds/dsa-solution/tree/master/0086-partition-list) |
@@ -171,6 +173,7 @@ Daily DSA Practise in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anurag-ds/dsa-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/anurag-ds/dsa-solution/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/anurag-ds/dsa-solution/tree/master/0131-palindrome-partitioning) |
@@ -249,6 +252,7 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anurag-ds/dsa-solution/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anurag-ds/dsa-solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/anurag-ds/dsa-solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anurag-ds/dsa-solution/tree/master/0144-binary-tree-preorder-traversal) |
@@ -443,6 +447,7 @@ Daily DSA Practise in C++
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anurag-ds/dsa-solution/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/anurag-ds/dsa-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0503-next-greater-element-ii) |
 ## Newton's Method
