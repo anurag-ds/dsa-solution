@@ -77,6 +77,7 @@ Daily DSA Practise in C++
 | [1539-kth-missing-positive-number](https://github.com/anurag-ds/dsa-solution/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/anurag-ds/dsa-solution/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anurag-ds/dsa-solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/anurag-ds/dsa-solution/tree/master/2104-sum-of-subarray-ranges) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anurag-ds/dsa-solution/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-ds/dsa-solution/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2951-find-the-peaks](https://github.com/anurag-ds/dsa-solution/tree/master/2951-find-the-peaks) |
@@ -267,6 +268,7 @@ Daily DSA Practise in C++
 | [0503-next-greater-element-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/anurag-ds/dsa-solution/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/anurag-ds/dsa-solution/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/anurag-ds/dsa-solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
@@ -454,6 +456,7 @@ Daily DSA Practise in C++
 | [0496-next-greater-element-i](https://github.com/anurag-ds/dsa-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/anurag-ds/dsa-solution/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/anurag-ds/dsa-solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Newton's Method
 |  |
 | ------- |
