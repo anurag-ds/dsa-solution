@@ -10,7 +10,6 @@ public:
             if (asteroids[i] > 0) {
                 st.push_back(asteroids[i]);
             }
-
             else {
                 while (!st.empty() && st.back() > 0 &&
                        st.back() < abs(asteroids[i])) {
