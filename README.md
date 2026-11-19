@@ -67,6 +67,7 @@ Daily DSA Practise in C++
 | [0540-single-element-in-a-sorted-array](https://github.com/anurag-ds/dsa-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/anurag-ds/dsa-solution/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anurag-ds/dsa-solution/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/anurag-ds/dsa-solution/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/anurag-ds/dsa-solution/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/anurag-ds/dsa-solution/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/anurag-ds/dsa-solution/tree/master/0875-koko-eating-bananas) |
@@ -267,6 +268,7 @@ Daily DSA Practise in C++
 | [0496-next-greater-element-i](https://github.com/anurag-ds/dsa-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/anurag-ds/dsa-solution/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/anurag-ds/dsa-solution/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/anurag-ds/dsa-solution/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/anurag-ds/dsa-solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
@@ -438,6 +440,7 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anurag-ds/dsa-solution/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/anurag-ds/dsa-solution/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
