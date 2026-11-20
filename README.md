@@ -215,6 +215,7 @@ Daily DSA Practise in C++
 | [0844-backspace-string-compare](https://github.com/anurag-ds/dsa-solution/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/anurag-ds/dsa-solution/tree/master/0942-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/anurag-ds/dsa-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -277,6 +278,7 @@ Daily DSA Practise in C++
 | [0735-asteroid-collision](https://github.com/anurag-ds/dsa-solution/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/anurag-ds/dsa-solution/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/anurag-ds/dsa-solution/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/anurag-ds/dsa-solution/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/anurag-ds/dsa-solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
@@ -414,6 +416,7 @@ Daily DSA Practise in C++
 | ------- |
 | [0020-valid-parentheses](https://github.com/anurag-ds/dsa-solution/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anurag-ds/dsa-solution/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/anurag-ds/dsa-solution/tree/master/1021-remove-outermost-parentheses) |
 ## Quicksort
 |  |
 | ------- |
