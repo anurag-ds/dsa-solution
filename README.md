@@ -108,6 +108,7 @@ Daily DSA Practise in C++
 | [0234-palindrome-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/anurag-ds/dsa-solution/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/anurag-ds/dsa-solution/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/anurag-ds/dsa-solution/tree/master/0942-di-string-match) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anurag-ds/dsa-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -211,6 +212,7 @@ Daily DSA Practise in C++
 | [0409-longest-palindrome](https://github.com/anurag-ds/dsa-solution/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/anurag-ds/dsa-solution/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/anurag-ds/dsa-solution/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/anurag-ds/dsa-solution/tree/master/0942-di-string-match) |
 | [1903-largest-odd-number-in-string](https://github.com/anurag-ds/dsa-solution/tree/master/1903-largest-odd-number-in-string) |
@@ -273,6 +275,7 @@ Daily DSA Practise in C++
 | [0678-valid-parenthesis-string](https://github.com/anurag-ds/dsa-solution/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/anurag-ds/dsa-solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/anurag-ds/dsa-solution/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/anurag-ds/dsa-solution/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/anurag-ds/dsa-solution/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/anurag-ds/dsa-solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
@@ -446,6 +449,7 @@ Daily DSA Practise in C++
 | [0067-add-binary](https://github.com/anurag-ds/dsa-solution/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/anurag-ds/dsa-solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/anurag-ds/dsa-solution/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/anurag-ds/dsa-solution/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
