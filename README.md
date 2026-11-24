@@ -78,6 +78,7 @@ Daily DSA Practise in C++
 | [0942-di-string-match](https://github.com/anurag-ds/dsa-solution/tree/master/0942-di-string-match) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anurag-ds/dsa-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anurag-ds/dsa-solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anurag-ds/dsa-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/anurag-ds/dsa-solution/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/anurag-ds/dsa-solution/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anurag-ds/dsa-solution/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -286,6 +287,7 @@ Daily DSA Practise in C++
 | [0844-backspace-string-compare](https://github.com/anurag-ds/dsa-solution/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/anurag-ds/dsa-solution/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/anurag-ds/dsa-solution/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anurag-ds/dsa-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/anurag-ds/dsa-solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
@@ -481,6 +483,7 @@ Daily DSA Practise in C++
 | [0496-next-greater-element-i](https://github.com/anurag-ds/dsa-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/anurag-ds/dsa-solution/tree/master/0907-sum-of-subarray-minimums) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anurag-ds/dsa-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/anurag-ds/dsa-solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Newton's Method
 |  |
