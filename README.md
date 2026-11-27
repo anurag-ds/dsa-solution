@@ -59,6 +59,7 @@ Daily DSA Practise in C++
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/anurag-ds/dsa-solution/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/anurag-ds/dsa-solution/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/anurag-ds/dsa-solution/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag-ds/dsa-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/anurag-ds/dsa-solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anurag-ds/dsa-solution/tree/master/0435-non-overlapping-intervals) |
@@ -435,6 +436,7 @@ Daily DSA Practise in C++
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/anurag-ds/dsa-solution/tree/master/0239-sliding-window-maximum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-ds/dsa-solution/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Counting Sort
 |  |
@@ -475,6 +477,7 @@ Daily DSA Practise in C++
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anurag-ds/dsa-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anurag-ds/dsa-solution/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/anurag-ds/dsa-solution/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -496,8 +499,17 @@ Daily DSA Practise in C++
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anurag-ds/dsa-solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/anurag-ds/dsa-solution/tree/master/0239-sliding-window-maximum) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/anurag-ds/dsa-solution/tree/master/0901-online-stock-span) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anurag-ds/dsa-solution/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anurag-ds/dsa-solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
